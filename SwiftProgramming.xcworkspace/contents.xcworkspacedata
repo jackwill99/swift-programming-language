@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:startHere.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/tensor_lab/wailwinphyo/learn_project/swiftCompleteCourse/01_Swift/introduction.playground">
+   </FileRef>
+   <FileRef
+      location = "group:ranges.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/tensor_lab/wailwinphyo/learn_project/swiftCompleteCourse/01_Swift/controlFlow.playground">
+   </FileRef>
+   <FileRef
+      location = "group:collection.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/tensor_lab/wailwinphyo/learn_project/swiftCompleteCourse/01_Swift/func.playground">
+   </FileRef>
+   <FileRef
+      location = "group:OOP.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/tensor_lab/wailwinphyo/learn_project/swiftCompleteCourse/01_Swift/enum.playground">
+   </FileRef>
+   <FileRef
+      location = "group:singleton.playground">
+   </FileRef>
+   <FileRef
+      location = "group:errorHandling.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/tensor_lab/wailwinphyo/learn_project/swiftCompleteCourse/01_Swift/generics_Type.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/tensor_lab/wailwinphyo/learn_project/swiftCompleteCourse/01_Swift/extension&amp;typeAlias.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/tensor_lab/wailwinphyo/learn_project/swiftCompleteCourse/01_Swift/hashable.playground">
+   </FileRef>
+</Workspace>
